@@ -1,6 +1,6 @@
 # "Exploración y Visualización de las Canciones Más Populares en Spotify 2023 con Power BI"
 
-<center><img src="imagenes/dashboard.png" width="50%"></center>
+<center><img src="imagenes/dashboard.png" width="100%"></center>
 
 
 Este emocionante proyecto se centra en el análisis del conjunto de datos extraído de Kaggle, titulado "Most Streamed Spotify Songs 2023", utilizando Python. Además, aprovechamos la API de Spotify a través de un script en Python para enriquecer aún más nuestra comprensión de las canciones en el dataset. Finalmente, reunimos todos estos datos en un intuitivo y atractivo dashboard interactivo diseñado en Power BI, que sigue la estética y estilo de Spotify. Descubre y explora las tendencias musicales más calientes de 2023 de una manera atractiva y accesible.
